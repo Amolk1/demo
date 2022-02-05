@@ -4,6 +4,7 @@ public class Demo {
 
         System.out.println("Hi Amol");
         System.out.println("hi Dear Alakh");
+        System.out.println("Hi Amol1");
     }
 
 }
